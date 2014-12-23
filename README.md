@@ -1,3 +1,3 @@
 MyJavaWeb
 =========
-This is a Java Web System ! Just it ! 
+This is a Demo of Java Web System ! Do you like it ?  
